@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cosmos49" alt="cosmos49" /></a> </p>
 
-- 🔭 I’m currently working on **PLC Designing**
+- 🔭 I’m currently working on **PLC Designing,Embedded System,VLSI and Programming**
 
 - 🌱 I’m currently learning **PLC , SCADA , PCB DESIGNING , HARDWARE DESGIGN**
 
